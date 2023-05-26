@@ -160,3 +160,17 @@
   margin-right: 2rem;
   color: #ff4500;
 }
+
+.dark-coffee-button{
+  position: absolute;
+  width: fit-content;  
+  height:fit-content; 
+  margin-top: 2rem;
+  left: 5rem;
+  top: 21rem;
+}
+
+.cold-coffee-button{
+  position: absolute;
+  top: 81rem;
+}
