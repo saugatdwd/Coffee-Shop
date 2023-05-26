@@ -22,6 +22,7 @@
 
   *{
     background-color: #1E2843;
+    z-index: 0;
 
   }
   .brand{
@@ -90,7 +91,7 @@
 }
 .card2{
     position: absolute;
-    top: 26rem;
+    top: 15.5rem;
     left: 30rem;
     border: none;
     height: 5rem; 
@@ -99,7 +100,7 @@
 }
 .card3{
     position: absolute;
-    top: 17rem;
+    top: -4rem;
     left: 55rem;
     border: none;
     height: 5rem; 
@@ -119,4 +120,26 @@
 
 .card-footer{
     border: none;
+}
+
+.card-second-text{
+    color: white;
+    background-color: #07142f;
+
+}
+
+.footer{
+    background-color: orangered;
+    z-index: 1;
+}
+
+footer.footer{
+    background-color: orangered;
+}
+
+.bi{
+    color: white;
+    background-color: orangered;
+    z-index: 1;
+    font-size: larger;
 }
